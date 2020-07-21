@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">4Sure</string>
+    <string name="welcome">Welcome</string>
+    <string name="api_url">https://www.potterapi.com/v1</string>
+    <string name="houses">Houses</string>
+    <string name="students">Students</string>
+    <string name="spells">spells</string>
+</resources>
